@@ -1,0 +1,5 @@
+Data:
+  - method: jomafa
+    get: /jomafa
+  - method: amazon
+    get: /amazon
